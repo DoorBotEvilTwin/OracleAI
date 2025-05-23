@@ -275,9 +275,6 @@ A dedicated `nlu_processor.py` using spaCy and custom models/rules.
 ### 3.11. Robust Privacy, Security, and Data Management
 *   Local-first, SQLCipher for DBs, 7-Zip encrypted backups, no unauthorized telemetry.
 
-*(Current Phase Estimate (Generating v0.4 Docs - Step 2: ReadMe): ~50% of ReadMe, ~22% Overall v0.4)*
-*(Overall OracleAI v0.4 Target: ~22%)*
-
 ---
 
 ## 4. Detailed Architecture: Agents, Modules, and Data Flow (v0.4 Conceptual)
